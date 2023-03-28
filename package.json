@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host 0.0.0.0", //Esta linea es la que nos permite ahora conocer la IP de nuestra maquina 
+    "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -17,4 +17,6 @@
   "dependencies": {
     "flowbite": "^1.6.4"
   }
-}
+  }
+
+
